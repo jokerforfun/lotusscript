@@ -1,0 +1,6 @@
+
+
+Function getRandomNumber(lngRangeStart as Long, lngRangeEnd as Long) As Long
+
+
+End Function
